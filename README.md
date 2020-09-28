@@ -9,7 +9,7 @@ I'm a maker. I design and build solutions to problems that fascinate me. I consi
 
 - 🔭 I’m currently working on web and cloud based technologies.
 - 🌱 I like working and contributing to FOSS Projects
-- 👯 I mostly work on Gitlab. 
+- 🦊 I mostly work on Gitlab. 
 - 💻 I can help you with
   - 🌏 Web Development
   - 📦 Software Packaging
