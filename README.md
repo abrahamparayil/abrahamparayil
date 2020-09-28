@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h2 align="center">👋 Hey, I'm Abraham.</h2>
+<p align="center">
+  <a href="https://abrahamraji.in">Blog</i></a> •
+  <a href="https://gitlab.com/avron">Gitlab</i></a> •
+  <a href="https://twitter.com/avron_raji">Twitter</a>
+</p>
 <!--
 **avronr/avronr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
