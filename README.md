@@ -5,7 +5,7 @@
   <a href="https://aana.site/@avronr">🐘</a>
 </p>
 
-I'm a maker. I design and build solutions to problems that fascinate me. I consider myself a minimalist who believes in sensible and intuitive design that is beautiful both on the outside as well as under the hood.
+I'm known online as avron. I design and build solutions to problems that fascinate me. I consider myself a minimalist who believes in sensible and intuitive design that is beautiful both on the outside as well as under the hood.
 
 - 🔭 I’m currently working on web and cloud based technologies.
 - 🌱 I like working and contributing to FOSS Projects
