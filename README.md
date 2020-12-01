@@ -9,7 +9,7 @@ I'm known online as avron. I design and build solutions to problems that fascina
 
 - 🔭 I’m currently working on web and cloud based technologies.
 - 🌱 I like working and contributing to FOSS Projects
-- 🦊 Most of the actual code hosted on Gitlab. 
+- 🦊 Most of the actual code is hosted on and maintained from Gitlab. 
 - 💻 I can help you with
   - 🌏 Web Development
   - 📦 Software Packaging
