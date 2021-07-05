@@ -17,4 +17,4 @@ I'm known online as avron. I design and build solutions to problems that fascina
 - 📫 How to reach me: <a href="mailto:avronr@tuta.io">📧</a>
 - 😄 Pronouns: He/His/Him
 
-[![avron's github stats](https://github-readme-stats.vercel.app/api?username=avronr&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![avron's github stats](https://github-readme-stats.vercel.app/api?username=abrahamparayil&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
