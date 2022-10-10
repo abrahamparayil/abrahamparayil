@@ -14,5 +14,5 @@ I'm known online as avron. I design and build solutions to problems that fascina
   - 🌏 Web Development
   - 📦 Software Packaging
   - 🏗️ DevOps 
-- 📫 How to reach me: <a href="mailto:avronr@tuta.io">📧</a>
+- 📫 How to reach me: <a href="mailto:mail@avronr.in">📧</a>
 - 😄 Pronouns: He/His/Him
